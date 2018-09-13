@@ -1,0 +1,1000 @@
+[ 
+  {
+    "id" : "rato",
+    "nome" : "Rato",
+    "tipo" : "Animal",
+    "vida" : 20,
+    "xp" : 20,
+    "ataque" : 4,
+    "defesa" : 1,
+    "img" : "C:\\RPG\\monstros\\Rat.jpg",
+    "drop" : [ 
+      {
+        "item" : "ouro",
+        "chance" : 0.85,
+        "qtdMin" : 1,
+        "qtdMax" : 4
+      },
+      {
+        "item" : "capacete_de_couro",
+        "chance" : 0.0088,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "escudo_de_madeira",
+        "chance" : 0.0058,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "queijo",
+        "chance" : 0.40,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "varinha_de_energia",
+        "chance" : 0.0100,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "biscoito",
+        "chance" : 0.1999,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      }
+    ]
+  },  
+  
+  {
+    "id" : "rato_de_caverna",
+    "nome" : "Rato de Caverna",
+    "tipo" : "Animal",
+    "vida" : 30,
+    "xp" : 30,
+    "ataque" : 5,
+    "defesa" : 2,
+    "img" : "C:\\RPG\\monstros\\Cave_Rat.jpg",
+    "drop" : [ 
+      {
+        "item" : "ouro",
+        "chance" : 0.85,
+        "qtdMin" : 1,
+        "qtdMax" : 2
+      },
+      {
+        "item" : "calcas_de_couro",
+        "chance" : 0.0088,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "escudo_de_madeira",
+        "chance" : 0.0058,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },      
+      {
+        "item" : "queijo",
+        "chance" : 0.30,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "varinha_de_energia",
+        "chance" : 0.0100,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "biscoito",
+        "chance" : 0.1999,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      }
+    ]
+  },
+  
+  {
+    "id" : "besouro",
+    "nome" : "Besouro",
+    "tipo" : "Animal",
+    "vida" : 29,
+    "xp" : 35,
+    "ataque" : 5,
+    "defesa" : 2,
+    "img" : "C:\\RPG\\monstros\\Bug.jpg",
+    "drop" : [ 
+      {
+        "item" : "ouro",
+        "chance" : 0.85,
+        "qtdMin" : 1,
+        "qtdMax" : 6
+      },
+      {
+        "item" : "armadura_de_couro",
+        "chance" : 0.0088,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "escudo_de_madeira",
+        "chance" : 0.0058,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "varinha_de_energia",
+        "chance" : 0.0100,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "cereja",
+        "chance" : 0.56,
+        "qtdMin" : 1,
+        "qtdMax" : 3
+      },
+      {
+        "item" : "pedaco_de_besouro",
+        "chance" : 0.1999,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      }
+    ]
+  },
+  
+  {
+    "id" : "rato_mutante",
+    "nome" : "Rato Mutante",
+    "tipo" : "Chefe",
+    "vida" : 70,
+    "xp" : 90,
+    "ataque" : 5,
+    "defesa" : 2,
+    "img" : "C:\\RPG\\monstros\\Mutated_Rat.gif",
+    "drop" : [ 
+      {
+        "item" : "ouro",
+        "chance" : 1,
+        "qtdMin" : 1,
+        "qtdMax" : 16
+      },
+      {
+        "item" : "armadura_de_couro",
+        "chance" : 0.0188,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "escudo_de_madeira",
+        "chance" : 0.0158,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "varinha_de_energia",
+        "chance" : 0.0150,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "queijo",
+        "chance" : 0.50,
+        "qtdMin" : 1,
+        "qtdMax" : 5
+      },
+      {
+        "item" : "biscoito",
+        "chance" : 0.4,
+        "qtdMin" : 1,
+        "qtdMax" : 3
+      }
+    ]
+  },
+  
+  {
+    "id" : "troll_jovem",
+    "nome" : "Troll Jovem",
+    "tipo" : "Troll",
+    "vida" : 30,
+    "xp" : 35,
+    "ataque" : 7,
+    "defesa" : 3,
+    "img" : "C:\\RPG\\monstros\\Troll.jpg",
+    "drop" : [ 
+      {
+        "item" : "ouro",
+        "chance" : 0.85,
+        "qtdMin" : 1,
+        "qtdMax" : 5
+      },
+      {
+        "item" : "carne",
+        "chance" : 0.2480,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "varinha_de_energia",
+        "chance" : 0.0100,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "escudo_de_madeira",
+        "chance" : 0.088,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "botas_de_couro",
+        "chance" : 0.0125,
+        "qtdMin" : 1,
+        "qtdMax" : 1        
+      },
+      {
+        "item" : "elmo_de_couro",
+        "chance" : 0.0125,
+        "qtdMin" : 1,
+        "qtdMax" : 1            
+      },
+      {
+        "item" : "pelo_de_troll",
+        "chance" : 0.1999,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      }      
+    ]
+  },
+  
+  {
+    "id" : "troll",
+    "nome" : "Troll",
+    "tipo" : "Troll",
+    "vida" : 50,
+    "xp" : 43,
+    "ataque" : 9,
+    "defesa" : 3,
+    "img" : "C:\\RPG\\monstros\\Troll.jpg",
+    "drop" : [ 
+      {
+        "item" : "ouro",
+        "chance" : 0.85,
+        "qtdMin" : 1,
+        "qtdMax" : 12
+      },
+      {
+        "item" : "varinha_de_energia",
+        "chance" : 0.0100,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "carne",
+        "chance" : 0.1499,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "escudo_de_madeira",
+        "chance" : 0.090,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "adaga",
+        "chance" : 0.0090,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "botas_de_couro",
+        "chance" : 0.0125,
+        "qtdMin" : 1,
+        "qtdMax" : 1        
+      },
+      {
+        "item" : "elmo_de_couro",
+        "chance" : 0.0125,
+        "qtdMin" : 1,
+        "qtdMax" : 1            
+      },
+      {
+        "item" : "pelo_de_troll",
+        "chance" : 0.1999,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      }
+    ]
+  },
+  
+  {
+    "id" : "troll_lider",
+    "nome" : "Troll Lider",
+    "tipo" : "Chefe",
+    "vida" : 135,
+    "xp" : 125,
+    "ataque" : 10,
+    "defesa" : 4,
+    "img" : "C:\\RPG\\monstros\\Furious_Troll.gif",
+    "drop" : [ 
+      {
+        "item" : "ouro",
+        "chance" : 1,
+        "qtdMin" : 1,
+        "qtdMax" : 25
+      },
+      {
+        "item" : "varinha_de_energia",
+        "chance" : 0.150,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "carne",
+        "chance" : 0.1499,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "escudo_de_madeira",
+        "chance" : 0.010,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "adaga",
+        "chance" : 0.010,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "botas_de_couro",
+        "chance" : 0.11,
+        "qtdMin" : 1,
+        "qtdMax" : 1        
+      },
+      {
+        "item" : "elmo_de_couro",
+        "chance" : 0.11,
+        "qtdMin" : 1,
+        "qtdMax" : 1            
+      },
+      {
+        "item" : "pelo_de_troll",
+        "chance" : 0.4,
+        "qtdMin" : 1,
+        "qtdMax" : 3
+      }
+    ]
+  },
+  
+  {
+    "id" : "ogro",
+    "nome" : "Ogro",
+    "tipo" : "Ogro",
+    "vida" : 70,
+    "xp" : 55,
+    "ataque" : 9,
+    "defesa" : 4,
+    "img" : "C:\\RPG\\monstros\\Orc.jpg",
+    "drop" : [ 
+      {
+        "item" : "ouro",
+        "chance" : 0.85,
+        "qtdMin" : 1,
+        "qtdMax" : 14
+      },
+      {
+        "item" : "varinha_de_energia",
+        "chance" : 0.0100,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "elmo_de_rebite",
+        "chance" : 0.0239,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "sabre",
+        "chance" : 0.0139,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "varinha_de_energia",
+        "chance" : 0.0139,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "sabre",
+        "chance" : 0.0139,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "armadura_de_rebite",
+        "chance" : 0.0239,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "escudo_de_rebite",
+        "chance" : 0.0139,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "calcas_de_rebite",
+        "chance" : 0.0239,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "botas_de_rebite",
+        "chance" : 0.0239,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "carne",
+        "chance" : 0.1029,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "couro_de_ogro",
+        "chance" : 0.1999,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      }
+    ]
+  },
+  
+  {
+    "id" : "ogro_guerreiro",
+    "nome" : "Ogro Guerreiro",
+    "tipo" : "Ogro",
+    "vida" : 85,
+    "xp" : 65,
+    "ataque" : 15,
+    "defesa" : 4,
+    "img" : "C:\\RPG\\monstros\\Orc_Warrior.jpg",
+    "drop" : [ 
+      {
+        "item" : "ouro",
+        "chance" : 0.85,
+        "qtdMin" : 1,
+        "qtdMax" : 15
+      },
+      {
+        "item" : "elmo_de_rebite",
+        "chance" : 0.0239,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "sabre",
+        "chance" : 0.0139,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "varinha_de_energia",
+        "chance" : 0.0100,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "armadura_de_rebite",
+        "chance" : 0.0239,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "escudo_de_rebite",
+        "chance" : 0.0139,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "calcas_de_rebite",
+        "chance" : 0.0239,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "botas_de_rebite",
+        "chance" : 0.0239,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "carne",
+        "chance" : 0.1547,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "couro_de_ogro",
+        "chance" : 0.1999,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      }
+    ]
+  },
+  
+  {
+    "id" : "ogro_lider",
+    "nome" : "Ogro Lider",
+    "tipo" : "Chefe",
+    "vida" : 170,
+    "xp" : 190,
+    "ataque" : 17,
+    "defesa" : 5,
+    "img" : "C:\\RPG\\monstros\\Orc_Leader.gif",
+    "drop" : [ 
+      {
+        "item" : "ouro",
+        "chance" : 0.1,
+        "qtdMin" : 1,
+        "qtdMax" : 25
+      },
+      {
+        "item" : "varinha_de_energia",
+        "chance" : 0.180,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "elmo_de_rebite",
+        "chance" : 0.1239,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "sabre",
+        "chance" : 0.1139,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "varinha_de_energia",
+        "chance" : 0.1139,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "sabre",
+        "chance" : 0.1139,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "armadura_de_rebite",
+        "chance" : 0.1239,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "escudo_de_rebite",
+        "chance" : 0.1139,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "calcas_de_rebite",
+        "chance" : 0.1239,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "botas_de_rebite",
+        "chance" : 0.1239,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "carne",
+        "chance" : 0.1029,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "couro_de_ogro",
+        "chance" : 0.4,
+        "qtdMin" : 1,
+        "qtdMax" : 3
+      }
+    ]
+  },
+  
+  {
+    "id" : "raposa",
+    "nome" : "Raposa",
+    "tipo" : "Animal",
+    "vida" : 90,
+    "xp" : 75,
+    "ataque" : 13,
+    "defesa" : 6,
+    "img" : "C:\\RPG\\monstros\\Fox.jpg",
+    "drop" : [ 
+      {
+        "item" : "ouro",
+        "chance" : 0.85,
+        "qtdMin" : 5,
+        "qtdMax" : 15
+      },
+      {
+        "item" : "elmo_de_latao",
+        "chance" : 0.0239,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "varinha_de_energia",
+        "chance" : 0.0100,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "espada_carmesim",
+        "chance" : 0.0139,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "armadura_de_latao",
+        "chance" : 0.0239,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "escudo_de_latao",
+        "chance" : 0.0139,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "calcas_de_latao",
+        "chance" : 0.0239,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "botas_de_latao",
+        "chance" : 0.0239,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "carne",
+        "chance" : 0.4757,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "pele_de_animal",
+        "chance" : 0.1999,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      }
+    ]
+  },
+  
+  {
+    "id" : "lobo",
+    "nome" : "Lobo",
+    "tipo" : "Animal",
+    "vida" : 100,
+    "xp" : 85,
+    "ataque" : 15,
+    "defesa" : 6,
+    "img" : "C:\\RPG\\monstros\\Wolf.jpg",
+    "drop" : [ 
+      {
+        "item" : "ouro",
+        "chance" : 0.85,
+        "qtdMin" : 5,
+        "qtdMax" : 15
+      },
+      {
+        "item" : "elmo_de_latao",
+        "chance" : 0.0239,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "varinha_de_energia",
+        "chance" : 0.0100,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "espada_carmesim",
+        "chance" : 0.0139,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "armadura_de_latao",
+        "chance" : 0.0239,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "escudo_de_latao",
+        "chance" : 0.0139,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "calcas_de_latao",
+        "chance" : 0.0239,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "botas_de_latao",
+        "chance" : 0.0239,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "carne",
+        "chance" : 0.6868,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "pele_de_animal",
+        "chance" : 0.1999,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      }
+    ]
+  },
+  
+  {
+    "id" : "tigre",
+    "nome" : "Tigre",
+    "tipo" : "Animal",
+    "vida" : 107,
+    "xp" : 94,
+    "ataque" : 18,
+    "defesa" : 5,
+    "img" : "C:\\RPG\\monstros\\Tiger.jpg",
+    "drop" : [ 
+      {
+        "item" : "ouro",
+        "chance" : 0.85,
+        "qtdMin" : 5,
+        "qtdMax" : 15
+      },
+      {
+        "item" : "elmo_de_latao",
+        "chance" : 0.0239,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "espada_carmesim",
+        "chance" : 0.0139,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "varinha_de_energia",
+        "chance" : 0.0100,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "armadura_de_latao",
+        "chance" : 0.0239,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "escudo_de_latao",
+        "chance" : 0.0139,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "calcas_de_latao",
+        "chance" : 0.0239,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "botas_de_latao",
+        "chance" : 0.0239,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "carne",
+        "chance" : 0.3474,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "presunto",
+        "chance" : 0.0999,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "pele_de_animal",
+        "chance" : 0.1999,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      }
+    ]
+  },
+  
+  {
+    "id" : "urso",
+    "nome" : "Urso",
+    "tipo" : "Animal",
+    "vida" : 125,
+    "xp" : 94,
+    "ataque" : 12,
+    "defesa" : 10,
+    "img" : "C:\\RPG\\monstros\\Bear.jpg",
+    "drop" : [ 
+      {
+        "item" : "ouro",
+        "chance" : 0.85,
+        "qtdMin" : 5,
+        "qtdMax" : 20
+      },
+      {
+        "item" : "elmo_de_latao",
+        "chance" : 0.0299,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "varinha_de_energia",
+        "chance" : 0.0100,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "espada_carmesim",
+        "chance" : 0.0199,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "armadura_de_latao",
+        "chance" : 0.0299,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "escudo_de_latao",
+        "chance" : 0.0199,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "calcas_de_latao",
+        "chance" : 0.0299,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "botas_de_latao",
+        "chance" : 0.0299,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "carne",
+        "chance" : 0.3941,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "presunto",
+        "chance" : 0.2028,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "pele_de_animal",
+        "chance" : 0.1999,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      }
+    ]
+  },
+  
+  {
+    "id" : "galinha_do_sehloiro",
+    "nome" : "Galinha do Sehloiro",
+    "tipo" : "Chefe",
+    "vida" : 250,
+    "xp" : 500,
+    "ataque" : 22,
+    "defesa" : 1,
+    "img" : "C:\\RPG\\monstros\\Chicken.gif",
+    "drop" : [ 
+      {
+        "item" : "ouro",
+        "chance" : 0.1,
+        "qtdMin" : 1,
+        "qtdMax" : 30
+      },
+      {
+        "item" : "varinha_de_energia",
+        "chance" : 0.1180,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "elmo_de_latao",
+        "chance" : 0.1299,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "espada_carmesim",
+        "chance" : 0.1199,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "varinha_de_energia",
+        "chance" : 0.1139,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "armadura_de_latao",
+        "chance" : 0.1299,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "escudo_de_latao",
+        "chance" : 0.1199,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "calcas_de_latao",
+        "chance" : 0.1299,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "botas_de_latao",
+        "chance" : 0.1299,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "carne",
+        "chance" : 0.1029,
+        "qtdMin" : 1,
+        "qtdMax" : 1
+      },
+      {
+        "item" : "pele_de_animal",
+        "chance" : 0.4,
+        "qtdMin" : 1,
+        "qtdMax" : 5
+      }
+    ]
+  }
+]

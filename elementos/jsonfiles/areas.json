@@ -1,0 +1,16 @@
+[{
+  "nome" : "Bueiro",
+  "monstros" : [{"id" : "rato"}, {"id" : "rato_de_caverna"}, {"id" : "besouro"}, {"id" : "rato_mutante"}]
+},
+{
+  "nome" : "Fortaleza_dos_Trolls",
+  "monstros" : [{"id" : "troll_jovem"}, {"id" : "troll"}, {"id" : "troll_lider"}]
+},
+{
+  "nome" : "Fortaleza_dos_Ogros",
+  "monstros" : [{"id" : "ogro"}, {"id" : "ogro_guerreiro"}, {"id" : "ogro_lider"}]
+},
+{
+  "nome" : "Floresta",
+  "monstros" : [{"id" : "urso"}, {"id" : "raposa"}, {"id" : "lobo"}, {"id" : "tigre"}, {"id" : "galinha_do_sehloiro"}]
+}]

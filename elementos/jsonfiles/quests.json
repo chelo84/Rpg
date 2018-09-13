@@ -1,0 +1,27 @@
+[
+  {
+    "item" : "biscoito",
+    "quantidade" : 3,
+    "xpRecompensa" : 150
+  },
+  {
+    "item" : "pedaco_de_besouro",
+    "quantidade" : 3,
+    "xpRecompensa" : 250
+  },
+  {
+    "item" : "pelo_de_troll",
+    "quantidade" : 3,
+    "xpRecompensa" : 375
+  },
+  {
+    "item" : "couro_de_ogro",
+    "quantidade" : 3,
+    "xpRecompensa" : 600
+  },
+  {
+    "item" : "pele_de_animal",
+    "quantidade" : 5,
+    "xpRecompensa" : 1000
+  }
+]

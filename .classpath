@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" path="src"/>
+	<classpathentry excluding="**/*.java|**/*.java" kind="src" path="elementos"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/core/jackson-core/2.9.6/jackson-core-2.9.6.jar" sourcepath="M2_REPO/com/fasterxml/jackson/core/jackson-core/2.9.6/jackson-core-2.9.6-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/core/jackson-databind/2.9.6/jackson-databind-2.9.6.jar" sourcepath="M2_REPO/com/fasterxml/jackson/core/jackson-databind/2.9.6/jackson-databind-2.9.6-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/core/jackson-annotations/2.9.6/jackson-annotations-2.9.6.jar" sourcepath="M2_REPO/com/fasterxml/jackson/core/jackson-annotations/2.9.6/jackson-annotations-2.9.6-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/miglayout/miglayout/3.7.4/miglayout-3.7.4.jar" sourcepath="M2_REPO/com/miglayout/miglayout/3.7.4/miglayout-3.7.4-sources.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

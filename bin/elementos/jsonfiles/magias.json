@@ -1,0 +1,38 @@
+[
+  {
+    "id": "exori_vis",
+    "nome": "Exori Vis",
+    "custo": 10,
+    "alvo": "inimigo",
+    "tipo": "dano",
+    "valorEfeito": 10,
+    "valorEfeitoRatio": 1,
+    "levelNecessario": 1,
+    "img" : "C:\\RPG\\magias\\Energy_Beam.jpg",
+    "animacao" : "C:\\RPG\\magias\\animacoes\\Energy_Effect.gif"
+  },
+  {
+    "id": "exori_flam",
+    "nome": "Exori Flam",
+    "custo": 11,
+    "alvo": "inimigo",
+    "tipo": "dano",
+    "valorEfeito": 13,
+    "valorEfeitoRatio": 1,
+    "levelNecessario": 4,
+    "img" : "C:\\RPG\\magias\\Hells_Core.png",
+    "animacao" : "C:\\RPG\\magias\\animacoes\\Fire_Effect.gif"
+  },
+  {
+    "id": "exura_vita",
+    "nome": "Exura Vita",
+    "custo": 15,
+    "alvo": "personagem",
+    "tipo": "cura",
+    "valorEfeito": 11,
+    "valorEfeitoRatio": 0.8,
+    "levelNecessario": 7,
+    "img" : "C:\\RPG\\magias\\Ultimate_Healing.gif",
+    "animacao" : "C:\\RPG\\magias\\animacoes\\Healing_Effect.gif"
+  }
+]
